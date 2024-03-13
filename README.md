@@ -1,0 +1,2 @@
+# Simplecode
+Trying out github
